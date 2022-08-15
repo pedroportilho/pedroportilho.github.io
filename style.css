@@ -1,0 +1,34 @@
+body {
+    background-color: #284B63;
+    padding: 3%;
+}
+
+#minha-foto{
+    float: left;
+    height: 290px;
+    padding: 5px;
+    background-color: #353535;
+}
+
+#img-container {
+    height:300px;
+    width:900px;
+    position:relative;
+}
+
+#meu-nome {
+    font-family: 'montserrat';
+    text-align: center;
+}
+
+#descricao {
+    position:absolute;
+    top: 30%;
+    left: 30%;
+}
+
+h3 {
+    font-size: 25px;
+  }
+
+
